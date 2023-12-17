@@ -1,1 +1,0 @@
-{"version":"1.0.0","name":"back","dependencies":{"cors":{"version":"2.8.5"},"express":{"version":"4.18.2"},"mongodb":{"version":"5.5.0"},"nodemon":{"version":"2.0.22"}}}
