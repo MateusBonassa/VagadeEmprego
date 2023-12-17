@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "6477b397452b9a411dfe2c9c"
+  },
+  "logo": "1685566359206.png",
+  "cargo": "Desenvolvedor Full Stack",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "requisitos": "Experiência em desenvolvimento web com Node.js, React e MySQL",
+  "formacao": "Superior completo ou em andamento em áreas relacionadas a TI",
+  "conhecimentos": "Node.js, React, MySQL",
+  "regime": "clt",
+  "jornada": "40 horas semanais",
+  "remuneracao": "R$ 8.000,00"
+},{
+  "_id": {
+    "$oid": "6477b60370b12587b9d8637c"
+  },
+  "logo": "1685566979755.png",
+  "cargo": "Desenvolvedor Front-End",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "requisitos": "Experiência em HTML, CSS e JavaScript",
+  "formacao": "Superior completo ou em andamento em áreas relacionadas a TI",
+  "conhecimentos": "React, Angular, Vue.js",
+  "regime": "clt",
+  "jornada": "40 horas semanais",
+  "remuneracao": "R$ 5.000,00"
+},{
+  "_id": {
+    "$oid": "6477b64370b12587b9d8637d"
+  },
+  "logo": "1685567043113.png",
+  "cargo": "Analista de Sistemas",
+  "cidade": "Belo Horizonte",
+  "estado": "MG",
+  "requisitos": "Experiência em análise e desenvolvimento de sistemas",
+  "formacao": "Superior completo ou em andamento em áreas relacionadas a TI",
+  "conhecimentos": "Java, SQL",
+  "regime": "cnpj",
+  "jornada": "40 horas semanais",
+  "remuneracao": "R$ 7.000,00"
+},{
+  "_id": {
+    "$oid": "6477b68970b12587b9d8637e"
+  },
+  "logo": "1685567113867.png",
+  "cargo": "Analista de Suporte",
+  "cidade": "Porto Alegre",
+  "estado": "RS",
+  "requisitos": "Experiência em suporte técnico a usuários",
+  "formacao": "Superior completo ou em andamento em áreas relacionadas a TI",
+  "conhecimentos": "Windows, Linux, redes",
+  "regime": "clt",
+  "jornada": "40 horas semanais",
+  "remuneracao": "R$ 4.000,00"
+}]
