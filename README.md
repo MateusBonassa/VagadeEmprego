@@ -7,12 +7,12 @@ Pagina inicial
 
 
 Visualização de Vagas 
-https://ibb.co/FbhrqRZ
+![](https://i.ibb.co/d0fTJ8C/foto2.png)
+
 
 Ao passar o mouse pelos cards ele giram e mostram mais informações
-
-https://ibb.co/qBdj9Fk
+![](https://i.ibb.co/4W7tMgP/foto3.png)
 
 Tela de Cadastro 
+![](https://i.ibb.co/sHSMvmM/cadastro.png)
 
-https://ibb.co/Wt9YWxY
