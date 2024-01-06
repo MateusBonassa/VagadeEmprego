@@ -3,8 +3,8 @@
 Projeto para visualização e cadastro de vagas
 
 Pagina inicial
+[![](https://i.ibb.co/RYs6CXm/foto1.png)]
 
-https://ibb.co/djVpQNq
 
 Visualização de Vagas 
 https://ibb.co/FbhrqRZ
